@@ -2,3 +2,6 @@ Hello!
 This is the first File!!
 
 Changes made at the local machine!!!
+
+
+Test for merging branches!!
